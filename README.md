@@ -35,7 +35,7 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 ### 1. Splash Screen
 
 - Durasi 5 detik dengan animasi
-- Menampilkan foto profil (riza.png)
+- Menampilkan foto profil 
 - Judul Aplikasi "RetroHub"
 - Informasi NIM dan nama mahasiswa
 - Animasi Sederhana
