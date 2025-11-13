@@ -87,15 +87,15 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 
 | Splash Screen                                          | Biodata                                          | Kontak                                                 |
 | ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------ |
-| <img src=" app/src/main/res/drawable/img_5.png" width="250"/> | <img src=" app/src/main/res/drawable/img.png" width="250"/> | <img src=" app/src/main/res/drawable/img_1.png" width="250"/> |
+| <img src="app/src/main/res/drawable/img_5.png" width="250"/> | <img src="app/src/main/res/drawable/img.png" width="250"/> | <img src="app/src/main/res/drawable/img_1.png" width="250"/> |
 
 | Kalkulator                                          | Cuaca                                       |
 | --------------------------------------------------- | ---------------------------------------------- |
-| <img src=" app/src/main/res/drawable/img_2.png" width="250"/> | <img src=" app/src/main/res/drawable/img_3.png" width="250"/> | 
+| <img src="app/src/main/res/drawable/img_2.png" width="250"/> | <img src="app/src/main/res/drawable/img_3.png" width="250"/> | 
 
 | Berita                                     |
 | ----------------------------------------------- |
-| <img src=" app/src/main/res/drawable/img_4.png" width="250"/> | 
+| <img src="app/src/main/res/drawable/img_4.png" width="250"/> | 
 
 ## Widget dan Layout yang Digunakan
 
