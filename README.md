@@ -97,7 +97,7 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 | ----------------------------------------------- |
 | <img src="app/src/main/res/drawable/img_4.png" width="250"/> | 
 
-## Widget dan Layout yang Digunakan
+## Widget yang Digunakan
 
 ### Widget Dasar
 
@@ -111,7 +111,7 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 
 - TextField (untuk input teks)
 - Radio (untuk jenis kelamin)
-- DropdownButton (untuk program studi)
+- DropdownButton (untuk thn angkatan)
 - DatePicker (untuk tanggal lahir)
 
 ### Widget Custom
