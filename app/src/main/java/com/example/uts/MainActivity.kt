@@ -141,6 +141,23 @@ fun SplashScreen(navController: NavController) {
         Column(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
+            // ▼▼▼ TAMBAHKAN TEKS JUDUL APLIKASI DI SINI ▼▼▼
+            Text(
+                text = "RetroHub",
+                fontSize = 32.sp,
+                fontWeight = FontWeight.Bold,
+                color = darkText,
+                modifier = Modifier
+                    .graphicsLayer {
+                        alpha = alphaAnim
+                        translationY = offsetTextAnim
+                    }
+            )
+
+            Spacer(modifier = Modifier.height(24.dp))
+            // ▲▲▲ SELESAI ▲▲▲
+
+
             // --- Efek glow lembut di belakang foto ---
             Box(
                 modifier = Modifier
@@ -204,9 +221,9 @@ fun SplashScreen(navController: NavController) {
             )
 
             Spacer(modifier = Modifier.height(40.dp))
-            }
         }
     }
+}
 
 
 
