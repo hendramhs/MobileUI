@@ -1,0 +1,20 @@
+package com.example.uts.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val retroDarkBackground = Color(0xFF22252D)
+val retroIconGray = Color(0xFFAAAAAA)
+val retroTextWhite = Color(0xFFF5F5F5)
+val retroTextPrimary = Color(0xFF3D352E) // Warna teks utama gelap
+val retroTextSecondary = Color(0xFF8A817A) // Warna teks sekunder
+val retroBeige = Color(0xFFF3EFE3)
+val retroTeal = Color(0xFF6DA8A5)         // Aksen untuk AppBar
+val retroRed = Color(0xFFE67A7A)         // Aksen untuk Header Grup
